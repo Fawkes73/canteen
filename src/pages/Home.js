@@ -1,15 +1,15 @@
 import React from 'react'
+import MainPageLayout from '../components/MainPageLayout';
+
 import Banner from './Banner';
 
 
-import "./Home.css";
+
 
 const Home = () => {
   return (
 
-    <div>
-      uoui
-    </div>,
+    <MainPageLayout>olsdj</MainPageLayout>,
     <div>
       <Banner />
     </div>
