@@ -1,0 +1,11 @@
+.main-slide{
+  padding-top: 2%;
+}
+
+.carousel .thumb{
+    visibility: hidden;
+}
+
+.carousel{
+  text-align: center;
+}
