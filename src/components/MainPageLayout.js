@@ -1,16 +1,16 @@
 
 import React from 'react';
-import { Switch, Route } from 'react-router-dom';
-
-import Home from "./pages/Home";
-import Order from "./pages/Order";
 
 import Navs from './Navs';
+import Banner from '../pages/Banner'
 
 const MainPageLayout = ({ childern }) => {
   return (
     <div>
       <Navs />
+      <Banner />
+
+
       {childern}
     </div>
   )

@@ -1,8 +1,8 @@
 import React from "react";
 import { Switch, Route } from 'react-router-dom';
+import Home from "./Home";
+import Order from "./pages/Order"
 
-import Home from "./pages/Home";
-import Order from "./pages/Order";
 
 
 
