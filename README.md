@@ -1,1 +1,1 @@
-Canteen Ording system
+Canteen Ordering system
